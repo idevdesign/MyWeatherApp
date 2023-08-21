@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  MyWeatherApp
+
+  Created by Sreenivas Babu on 8/21/23.
+  
+*/
+
+"weather_app" = "Weather App";
+"weather_title" = "Weather";
+"error_message" = "Could not get the weather info.";
+"temperature" = "Temperature";
+"invalid_url" = "Invalid URL";
+

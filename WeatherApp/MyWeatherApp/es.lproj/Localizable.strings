@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  MyWeatherApp
+
+  Created by Sreenivas Babu on 8/21/23.
+  
+*/
+
+"main_title" = "Aplicación del tiempo";
+"weather_title" = "Clima";
+"error_message" = "No se pudo obtener la información meteorológica.";
+"temperature_string" = "Temperatura";
+"invalid_url" = "URL invalida";
+

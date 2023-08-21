@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "My Weather App by Sreenivas"; ObjectID = "ebK-kS-4LB"; */
+"ebK-kS-4LB.text" = "My Weather App by Sreenivas";
+
+/* Class = "UITextField"; placeholder = "Enter the city"; ObjectID = "hPf-sh-avr"; */
+"hPf-sh-avr.placeholder" = "Enter the city";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pjC-Kw-RlA"; */
+"pjC-Kw-RlA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z30-Bf-qlH"; */
+"z30-Bf-qlH.text" = "Label";
